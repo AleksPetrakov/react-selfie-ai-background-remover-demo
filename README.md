@@ -13,7 +13,7 @@ You can find the main component here:
 ## Demo
 
 The live demo for this component can be accessed at:
-- [GitHub Pages Live Demo](https://<Ваш_логин>.github.io/react-selfie-ai-background-remover-demo/)
+- [GitHub Pages Live Demo](https://alekspetrakov.github.io/react-selfie-ai-background-remover-demo/)
 
 ## Installation & Usage
 
@@ -21,7 +21,7 @@ To use the **React Selfie AI Background Remover** in your own projects, install 
 
 ```bash
 npm install react-selfie-ai-background-remover
-
+```
 ## Links
 
 - **GitHub Repository**: [https://github.com/AleksPetrakov/react-selfie-ai-background-remover](https://github.com/AleksPetrakov/react-selfie-ai-background-remover)
